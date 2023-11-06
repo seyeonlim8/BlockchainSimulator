@@ -1,6 +1,4 @@
 # BlockchainSimulator
-A simple blockchain simulator.
-
 This project is a Blockchain Simulator that demonstrates the basic operations of a blockchain. It's a simple, educational tool that shows how a blockchain starts with a genesis block, how new blocks are added with a set difficulty, and how blocks are mined.
 
 ## Features
