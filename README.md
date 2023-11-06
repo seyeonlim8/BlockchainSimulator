@@ -14,8 +14,8 @@ Upon running, the simulator will:
 * Initialize a blockchain with a specified difficulty.
 * Mine three blocks with sample data, showing the mining progress in the console.
 
-## Authors
-Seyeon Lim - Initial work - seyeonlim8
+## Author
+**Seyeon Lim(https://github.com/seyeonlim8)** - *Initial Work*
 
 ## Acknowledgments
 Special thanks to:
